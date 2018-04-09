@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/mock/bank.js"],"names":["list"],"mappings":";;;;;AAAA,IAAMA,OAAK,CACP,QADO,EAEP,QAFO,EAGP,QAHO,EAIP,MAJO,EAKP,QALO,EAMP,UANO,EAOP,MAPO,CAAX;kBASeA,I","file":"bank.js","sourcesContent":["const list=[\n    '国家开发银行',\n    '中国工商银行',\n    '中国农业银行',\n    '中国银行',\n    '中国建设银行',\n    '中国邮政储蓄银行',\n    '交通银行',\n];\nexport default list"]}
